@@ -1,0 +1,7 @@
+--- query 01 (count)
+SELECT COUNT(*) FROM data
+1000000  
+
+--- query 02 (count, where)
+SELECT COUNT(*) FROM data WHERE serviceDesk = 8 AND type = 'w'
+20752

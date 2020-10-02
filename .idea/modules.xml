@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../02_vorlesung/02_vorlesung.iml" filepath="$PROJECT_DIR$/../02_vorlesung/02_vorlesung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_vorlesung_data_analytics_lambdas_streams_01/02_vorlesung_data_analytics_lambdas_streams_01.iml" filepath="$PROJECT_DIR$/../02_vorlesung_data_analytics_lambdas_streams_01/02_vorlesung_data_analytics_lambdas_streams_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_vorlesung_data_analytics_lambdas_streams_12.iml" filepath="$PROJECT_DIR$/02_vorlesung_data_analytics_lambdas_streams_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_vorlesung/exercice.iml" filepath="$PROJECT_DIR$/../02_vorlesung/exercice.iml" />
+    </modules>
+  </component>
+</project>
